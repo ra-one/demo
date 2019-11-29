@@ -16,16 +16,26 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "some comment 1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "body": "some comment 2",
       "postId": 1
+    }
+    {
+      "id": 3,
+      "body": "some comment 3",
+      "postId": 2
+    }
+    {
+      "id": 4,
+      "body": "some comment 4",
+      "postId": 2
     }
   ],
   "profile": {
-    "name": "DV"
+    "name": "Dsquare"
   }
 }
